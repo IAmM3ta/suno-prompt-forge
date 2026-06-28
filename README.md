@@ -2,7 +2,7 @@
 
 **Audio → Highly Detailed Suno Prompt (Guidebook-Native)**
 
-A polymath-grade Python CLI that captures or loads a song sample (Shazam-style), runs rigorous MIR deconstruction, and emits copy-paste-ready Suno prompts that obey every constraint, template, negative-prompt rule, slider heuristic, timing table, and artist deconstruction from Metta Thomas’s *Suno + SSML Comprehensive Guidebook V2*.
+A Python CLI that captures or loads a song sample (Shazam-style), runs rigorous MIR deconstruction, and emits copy-paste-ready Suno prompts that obey every constraint, template, negative-prompt rule, slider heuristic, timing table, and artist deconstruction from Metta Thomas’s *Suno + SSML Comprehensive Guidebook V2*.
 
 ## Why This Exists
 
