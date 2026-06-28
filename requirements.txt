@@ -1,0 +1,9 @@
+# Suno Prompt Forge - Audio to Detailed Suno Prompt Generator
+# Complements "Suno + SSML Comprehensive Guidebook" by Metta Thomas
+# Install with: pip install -r requirements.txt
+
+librosa>=0.10.0
+sounddevice>=0.4.6
+soundfile>=0.12.1
+numpy>=1.24
+scipy>=1.10
